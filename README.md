@@ -1,4 +1,4 @@
-# ---------- MIT IAP 2020 - The missing semester ----------
+# --------- MIT IAP 2020 - The missing semester ---------
 <img src = "https://raw.githubusercontent.com/lehoangan2906/IAP-2020---The-missing-semester/main/thumb.png">
 
 ---------------------------------------------------------------------------------------
